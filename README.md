@@ -46,3 +46,5 @@ The term "long throw" used in the context of subwoofers can be confusing when co
 
 ### Directivity
 Enclosure designs with horn-loaded or ported configurations can exhibit some degree of directivity, but it is generally limited to specific frequency ranges and is not as pronounced as with high-frequency drivers. As sound waves propagate, they naturally disperse and spread out in all directions. This behavior is more pronounced for lower frequencies due to their longer wavelengths. Consequently, subwoofers radiate sound in a more omnidirectional or semi-omnidirectional manner, meaning they distribute sound relatively evenly in multiple directions rather than in a tightly focused beam.
+
+![Alt text](/Subwoofer-comparison-simulated-output-at-1w.png?raw=true "REW Screenshot")
