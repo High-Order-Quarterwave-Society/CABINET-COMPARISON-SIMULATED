@@ -30,7 +30,7 @@ Since HR Impulse export is 20 to 30 dB higher, all measures are corrected by tak
 
 
 ## NOTE:
-Take note that HornResp software peaks and valleys are slightly larger (or sometimes non-existent) in the real world measurements. Also a 1 Watt simulation is not representative for realworld usage on high power levels.
+Take note that HornResp software peaks and valleys are slightly larger (or sometimes non-existent) in the real world measurements. Also a 1 Watt simulation is not representative for realworld usage on high power levels. HornResp data based on the latest known cabinet data sources.
 
 ## There is no competition
 Comparing cabinets output is not a competition, there is not a 'BEST' performing subwoofer cabinet ift there was, we all would be using the same cabinet after 100 years of loudspeaker innovations. There is only the right tool for the Job and personal taste. 
