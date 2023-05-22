@@ -4,6 +4,30 @@ The cabinet base [X]Ohm is set as base. For example 2x 8Ohm drivers in parallel 
 
 Since HR Impulse export is 20 to 30 dB higher, all measures are corrected by taking the HR 100Hz=SPL line. the SPL from HR is then correced on the 100Hz line in REW.
 
+## Current list of cabinet simulations:
+
+### 21" loudspeaker cabinets
+- Othorn 21" Tapped Horn 
+- Paraflex Type-R-121 Dual Quarterwave resonator horn
+- Paraflex TC2E-121 Dual Quarterwave resonator horn- 
+- SKhorn (SKRAM) Hybrid Bassd Reflex / bandpass Horn 2x 21"
+
+### 18" loudspeaker cabinets
+- Paraflex Type-C-CRAM-218 Dual Quarterwave resonator horn
+- Paraflex Type-O-CRAM-218 Dual Quarterwave resonator horn
+- Paraflex Type-R-118 Dual Quarterwave resonator horn
+- OHA-BR218  Standard Bass-Reflex 2x 18"
+- OTH-218EB dual Tapped Horn 2x 18"
+- Cubo-18 Tapped Rear Bandpass Horn 1x 18"
+- Paraflex Type-R-118  Dual Quarterwave resonator horn 1x 18"
+
+### 15" loudspeaker cabinets
+- Paraflex TC2E-215 Dual Quarterwave resonator horn  2x 15"
+- BFM Tuba-60 Front Loaded Horn 1x 15"
+- BFM Titan-48 Front Loaded Horn 1x 15"
+
+
+
 ## NOTE:
 Take note that HornResp sofware peaks and valleys are slightly larger (or sometimes non-existent) in the real world measurements
 
