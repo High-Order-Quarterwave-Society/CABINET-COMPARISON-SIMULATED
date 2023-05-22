@@ -10,7 +10,8 @@ Since HR Impulse export is 20 to 30 dB higher, all measures are corrected by tak
 - Othorn 21" Tapped Horn 
 - Paraflex Type-R-121 Dual Quarterwave resonator horn
 - Paraflex TC2E-121 Dual Quarterwave resonator horn- 
-- SKhorn (SKRAM) Hybrid Bassd Reflex / bandpass Horn 2x 21"
+- SKhorn-221 Hybrid Bassd Reflex / bandpass Horn 2x 21"
+- SKRAM-121 Hybrid Bassd Reflex / bandpass Horn 1x 21"
 
 ### 18" loudspeaker cabinets
 - Paraflex Type-C-CRAM-218 Dual Quarterwave resonator horn
