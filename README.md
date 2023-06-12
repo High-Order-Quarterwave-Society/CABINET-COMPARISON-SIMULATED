@@ -1,8 +1,8 @@
-# CABINET-COMPARISON-SIMULATED
-HornResp Software Cabinet comparison at 1 Watt and exported impulse response into REW.
-The cabinet base [X]Ohm is set as base. For example 2x 8Ohm drivers in parallel = 1w/4Ohm 1x 4Ohm = 1w/4Ohm and 1x 8Ohm is 1w/8Ohm
+# Cabinet comparison from HornRerp simulated cabinet designs
+HornResp Software (HR) Cabinet comparison at 1 Watt and exported impulse response into REW.
+The optimal driver(s) for the cabinet and its Ohm (8 or 4) is set for 2.83v or 2v. 
 
-Since HR Impulse export is 20 to 30 dB higher, all measures are corrected by taking the HR 100Hz=SPL line. The SPL from HR is then SPL corrected on the 100Hz line in REW.
+Since HR Impulse export is 20 to 30 dB higher, all measures are corrected by taking in HR 100Hz/dB SPL line. The dB/SPL from HR is then  set on the 100Hz line in REW and frequency response adjusted to be the same as HR responser
 
 ## Current list of cabinet simulations:
 
